@@ -11,7 +11,7 @@ $ cd client
 $ yarn run start
 ```
 
-## Running the client
+## Running the server
 
 ```bash
 $ cd server
